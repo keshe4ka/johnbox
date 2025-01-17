@@ -24,7 +24,7 @@ const util = require('util')
 var URL = require("url");
 
 // the host that the custom server is accessible with
-var accessibleHost = "localhost";
+var accessibleHost = "jackbox.keshe4ka.ru";
 // the TLS certificate / key used for the server
 // must have valid SNI for accessibleHost
 // var tlsCertificate = "certs/192.168.1.10.pem";
